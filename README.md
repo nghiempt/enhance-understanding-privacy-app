@@ -47,7 +47,7 @@ We have somes way to collect data from browers. After, pre-proccessing data. Thi
 
 ## Evaluation
 
-![alt text](https://github.com/nghiempt/enhance-understanding-privacy-app/evaluation.png?raw=true)
+![alt text](https://github.com/nghiempt/enhance-understanding-privacy-app/blob/master/evaluation.png)
 
 We have 10 cases. We use LLM models to generate result:
 
